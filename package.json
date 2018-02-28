@@ -1,0 +1,19 @@
+{
+  "name": "fal-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Wilkerson <mwilkerson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.4",
+    "@fortawesome/fontawesome-pro-light": "^5.0.7"
+  },
+  "devDependencies": {
+    "rollup-plugin-node-resolve": "^3.0.3",
+    "rollup": "^0.56.3"
+  }
+}
